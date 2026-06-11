@@ -1,2 +1,2 @@
-# Studying-C
-Studying C with Code Bro
+# Learning-C
+Learning C with Code Bro
